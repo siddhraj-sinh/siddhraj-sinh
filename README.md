@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddharaj</h1>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Siddharaj Rathod!
+
 <h3 align="center">A passionate Android App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhraj-sinh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj-sinh" /> </p>
