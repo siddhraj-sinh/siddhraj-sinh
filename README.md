@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Kotlin,Java,UI/UX**
 
-- 📫 How to reach me **skrathod282001@gmail.com**
+- 📫 How to reach me **https://siddhraj-sinh.github.io/**
 
 - ⚡ Fun fact **I am not a hacker**
 
