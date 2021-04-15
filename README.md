@@ -1,15 +1,8 @@
-### Hi there 👋
+## Hey 👋, This is Siddharaj Rathod
+[![Gmail Badge](https://img.shields.io/badge/-skrathod282001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:skrathod282001@gmail.com)](mailto:skrathod282001@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Siddharaj Rathod-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Siddharaj Rathod/)](https://www.linkedin.com/in/Siddharaj Rathod/) [![Github Badge](https://img.shields.io/badge/-siddhraj-sinh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/siddhraj-sinh/)](https://www.github.com/siddhraj-sinh/) [![Twitter Badge](https://img.shields.io/badge/-@rsk020801-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@rsk020801/)](https://www.twitter.com/@rsk020801/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://siddhraj-sinh.github.io//)](https://siddhraj-sinh.github.io//) <p align='left'>Enthusiastic individual eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of time management and problem solving. Self motivated to learn, grow and excel in developing new skills.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=siddhraj-sinh alt=siddhraj-sinh /> </p>
 
-
-
-
-
-- 🔭 I’m currently working on ...Android Application Development & Designing
-- 🌱 I’m currently learning ...Kotlin & Java
-- 👯 I’m looking to collaborate on ...Mobile App Development
-- 🤔 I’m looking for help with ...Mobile App Development
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...my website[https://siddhraj-sinh.github.io/]
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I'm not a hacker
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=siddhraj-sinh&show_icons=true&include_all_commits=true)](https://github.com/siddhraj-sinh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj-sinh&layout=compact)](https://github.com/siddhraj-sinh/github-readme-stats)
