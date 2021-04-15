@@ -24,7 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rsk020801" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rsk020801" height="30" width="40" /></a>
+<a href="https://twitter.com/rsk020801" target="blank"><i class="fab fa-linkedin-in"align="center" alt="rsk020801" height="30" width="40"></i></a>
+  <!--<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rsk020801" height="30" width="40" />-->
 <a href="https://linkedin.com/in/siddharajsinh rathod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddharajsinh rathod" height="30" width="40" /></a>
 </p>
 
