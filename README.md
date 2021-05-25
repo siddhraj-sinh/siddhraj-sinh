@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rsk020801" target="blank"><img src="https://img.shields.io/twitter/follow/rsk020801?logo=twitter&style=for-the-badge" alt="rsk020801" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Marvel Heros App**
 
-- 🌱 I’m currently learning **Kotlin,Java,Python,JASON**
+- 🌱 I’m currently learning **Kotlin,Java,Retrofit,Corotuines**
 
 - 👯 I’m looking to collaborate on **Android App Development**
 
