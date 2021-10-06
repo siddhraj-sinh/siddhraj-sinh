@@ -1,4 +1,4 @@
-<h1 align="center">### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Siddharaj Rathod!</h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Siddharaj Rathod!</h1>
 
 <h3 align="center">A passionate Android App developer from India</h3>
 
