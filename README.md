@@ -24,7 +24,7 @@
 
 ### Connect with me:
 
-[<img align= "left" alt= "Siddharaj Rathod | Linkedin" width= "40px" src= "https://www.svgrepo.com/show/157006/linkedin.svg" />][Linkedin]
+[<img align= "left" alt= "Siddharaj Rathod | Linkedin" width= "35px" src= "https://www.svgrepo.com/show/157006/linkedin.svg" />][Linkedin]
 <br />
 
 ### Connect with me: Languages and Tools
