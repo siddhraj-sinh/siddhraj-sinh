@@ -14,7 +14,9 @@
 
 - 🤝 I’m looking for help with **Android App development**
 
-- 👨‍💻 All of my projects are available at [https://siddhraj-sinh.github.io/](https://siddhraj-sinh.github.io/)
+- 👨‍💻 visit my portfolio at [here](https://siddhraj-sinh.github.io/)
+
+- 👨‍💻 read my latest blog on Image Recognition App using TensorFlow Lite Model [here](https://medium.com/@contact.developer.siddharaj/image-classification-app-with-tensor-flow-lite-on-android-beginner-ce36813e62a8)
 
 - 💬 Ask me about **Kotlin,Java,UI/UX**
 
