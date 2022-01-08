@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Android App Development**
 
-- 🤝 I’m looking for help with **Android App development**
+- 🤝 Download my app from google [playstore](https://play.google.com/store/apps/details?id=com.siddharaj.noteit)
 
 - 👨‍💻 visit my portfolio at [here](https://siddhraj-sinh.github.io/)
 
