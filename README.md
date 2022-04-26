@@ -18,12 +18,6 @@
 
 - 👨‍💻 read my latest blog on Image Recognition App using TensorFlow Lite Model [here](https://medium.com/@contact.developer.siddharaj/image-classification-app-with-tensor-flow-lite-on-android-beginner-ce36813e62a8)
 
-- 💬 Ask me about **Kotlin,Java,UI/UX**
-
-- 📫 How to reach me **https://siddhraj-sinh.github.io/**
-
-- ⚡ Fun fact **I am not a hacker**
-
 ### Connect with me:
 
 [<img align= "left" alt= "Siddharaj Rathod | Linkedin" width= "35px" src= "https://www.svgrepo.com/show/157006/linkedin.svg" />][Linkedin]
