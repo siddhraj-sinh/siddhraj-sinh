@@ -6,17 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/rsk020801" target="blank"><img src="https://img.shields.io/twitter/follow/rsk020801?logo=twitter&style=for-the-badge" alt="rsk020801" /></a> </p>-->
 
-- 🔭 I’m currently working on **My Mobills App (checkout repository for contribution)**
-
-- 🌱 I’m currently learning **Kotlin,Java,Retrofit,Corotuines**
-
-- 👯 I’m looking to collaborate on **Android App Development**
-
 - 🤝 Download my app from google [playstore](https://play.google.com/store/apps/details?id=com.siddharaj.noteit)
 
-- 👨‍💻 visit my portfolio at [here](https://siddhraj-sinh.github.io/)
+- 👨‍💻 visit my [portfolio](https://siddhraj-sinh.github.io/)
 
-- 👨‍💻 read my latest blog on Image Recognition App using TensorFlow Lite Model [here](https://medium.com/@contact.developer.siddharaj/image-classification-app-with-tensor-flow-lite-on-android-beginner-ce36813e62a8)
+- 👨‍💻 read my latest blog on Image Recognition App using [TensorFlow Lite Model](https://medium.com/@contact.developer.siddharaj/image-classification-app-with-tensor-flow-lite-on-android-beginner-ce36813e62a8)
 
 ### Connect with me:
 
