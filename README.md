@@ -8,8 +8,6 @@
 
 - 🤝 Download my app from google [playstore](https://play.google.com/store/apps/details?id=com.siddharaj.noteit)
 
-- 👨‍💻 visit my [portfolio](https://siddhraj-sinh.github.io/)
-
 - 👨‍💻 read my latest blog on Image Recognition App using [TensorFlow Lite Model](https://medium.com/@contact.developer.siddharaj/image-classification-app-with-tensor-flow-lite-on-android-beginner-ce36813e62a8)
 
 ### Connect with me:
